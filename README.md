@@ -14,7 +14,7 @@ Discover high-revenue product categories
 Evaluate regional sales performance
 Track revenue trends over time
 Generate business insights and actionable recommendations<br>
-<u>🛠 Tools & Technologies Used</u>
+<u>🛠 Tools & Technologies Used</u> <br>
 1.Microsoft Power BI – Dashboard Development & Data Visualization<br>
 2.Microsoft Excel – Data Preparation<br>
 3.Power Query – Data Cleaning & Transformation<br>
