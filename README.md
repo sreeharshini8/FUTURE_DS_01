@@ -102,12 +102,12 @@ Launch targeted campaigns during low-sales periods.
 Optimize pricing and discount strategies.
 
 <u>🎓 Skills Gained</u>
-Business Analytics
-Data Cleaning
-KPI Analysis
-Dashboard Development
-Business Storytelling
-Insight Generation
+1.Business Analytics<br>
+2.Data Cleaning<br>
+3.KPI Analysis<br>
+4.Dashboard Development<br>
+5.Business Storytelling<br>
+6.Insight Generation<br>
 <u>Interactive dashboards</u><br><br>
 Applied filters in region,order Date and category
 <img width="752" height="401" alt="1" src="https://github.com/user-attachments/assets/d93d9a72-3c0b-4582-aa58-4b2b811cffe0" /><bR>
