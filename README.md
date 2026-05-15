@@ -131,7 +131,8 @@ Optimize pricing and discount strategies.
 ---
 <br>
 <br>
-<img width="960" height="564" alt="Screenshot 2026-05-16 204622" src="https://github.com/user-attachments/assets/e2aed556-3b88-4dfd-958e-e18c0f714faf" />
+<img width="500" height="354" alt="all" src="https://github.com/user-attachments/assets/6165804f-6fb4-4fe2-bf6a-380c1817fc65" />
+
 
 ## <ins>👩‍💻 Author</ins>
 
