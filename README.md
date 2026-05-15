@@ -15,20 +15,20 @@ Evaluate regional sales performance
 Track revenue trends over time
 Generate business insights and actionable recommendations<br>
 <u>🛠 Tools & Technologies Used</u>
-Microsoft Power BI – Dashboard Development & Data Visualization
-Microsoft Excel – Data Preparation
-Power Query – Data Cleaning & Transformation<br>
+1.Microsoft Power BI – Dashboard Development & Data Visualization
+2.Microsoft Excel – Data Preparation
+3.Power Query – Data Cleaning & Transformation<br>
 <u>📂 Dataset Information</u>
 
 Dataset Used: Superstore Sales Dataset
 
 The dataset contains:
 
-Order Details
-Product Information
-Regional Sales Data
-Profit Analysis
-Customer Purchase Trends<br>
+1.Order Details
+2.Product Information
+3.Regional Sales Data
+4.Profit Analysis
+5.Customer Purchase Trends<br>
 <u>📈 Key Performance Indicators (KPIs)</u>
 KPI	Value
 Total Sales	632,630.68
