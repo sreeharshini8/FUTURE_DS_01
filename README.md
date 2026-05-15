@@ -108,11 +108,9 @@ KPI Analysis
 Dashboard Development
 Business Storytelling
 Insight Generation
-<u>Interactive dashboards</u>
+<u>Interactive dashboards</u><br><br>
 Applied filters in region,order Date and category
 <img width="752" height="401" alt="1" src="https://github.com/user-attachments/assets/d93d9a72-3c0b-4582-aa58-4b2b811cffe0" /><bR>
-Applied filters in region and category
-<img width="676" height="392" alt="2" src="https://github.com/user-attachments/assets/16e38ee2-dbc0-41db-b231-533f81a84371" />
 
 <u>👩‍💻 Author</u>
 
