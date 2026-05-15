@@ -13,11 +13,11 @@ Identify top-selling products
 Discover high-revenue product categories
 Evaluate regional sales performance
 Track revenue trends over time
-Generate business insights and actionable recommendations
+Generate business insights and actionable recommendations<br>
 <u>🛠 Tools & Technologies Used</u>
 Microsoft Power BI – Dashboard Development & Data Visualization
 Microsoft Excel – Data Preparation
-Power Query – Data Cleaning & Transformation
+Power Query – Data Cleaning & Transformation<br>
 <u>📂 Dataset Information</u>
 
 Dataset Used: Superstore Sales Dataset
@@ -28,7 +28,7 @@ Order Details
 Product Information
 Regional Sales Data
 Profit Analysis
-Customer Purchase Trends
+Customer Purchase Trends<br>
 <u>📈 Key Performance Indicators (KPIs)</u>
 KPI	Value
 Total Sales	632,630.68
