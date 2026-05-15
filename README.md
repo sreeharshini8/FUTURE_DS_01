@@ -108,7 +108,7 @@ Optimize pricing and discount strategies.
 4.Dashboard Development<br>
 5.Business Storytelling<br>
 6.Insight Generation<br>
-<u>Interactive dashboards</u><br><br>
+📊<u>Interactive dashboards</u><br><br>
 Applied filters in region,order Date and category
 <img width="752" height="401" alt="1" src="https://github.com/user-attachments/assets/d93d9a72-3c0b-4582-aa58-4b2b811cffe0" /><bR>
 
