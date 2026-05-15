@@ -129,6 +129,9 @@ Optimize pricing and discount strategies.
 - Insight Generation  
 
 ---
+<br>
+<br>
+<img width="960" height="564" alt="Screenshot 2026-05-16 204622" src="https://github.com/user-attachments/assets/e2aed556-3b88-4dfd-958e-e18c0f714faf" />
 
 ## <ins>👩‍💻 Author</ins>
 
