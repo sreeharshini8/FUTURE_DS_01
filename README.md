@@ -26,7 +26,7 @@ This project was completed as part of the Data Science & Analytics Internship Pr
 ## <ins>🛠 Tools & Technologies Used</ins>
 
 - Microsoft Power BI – Dashboard Development & Data Visualization  
-- Microsoft Excel – Data Preparation  
+- Microsoft Excel – Dataset Preparation  
 - Power Query – Data Cleaning & Transformation  
 
 ---
